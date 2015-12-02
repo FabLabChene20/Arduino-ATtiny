@@ -12,6 +12,3 @@ ___
 :x: = Testé mais ne fonctionne pas  
 
 ___
-
-
-
