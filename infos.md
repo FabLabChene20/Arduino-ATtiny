@@ -8,5 +8,5 @@ ___
 **Board(s) Arduino:** Uno | Leonardo :heavy_check_mark: | Yún  
 **IDE(s):** v1.6.6 :heavy_check_mark:  
 **Système(s) d'exploitation:** Linux | Windows | OSX :heavy_check_mark:   
-**Composant(s) Atmel:** ATtiny85  
+**Composant(s) Atmel:** ATtiny85 :heavy_check_mark:  
 ___
