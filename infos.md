@@ -7,7 +7,7 @@ ___
 **Systèmes d'exploitation:** Linux :heavy_minus_sign: | Windows :heavy_minus_sign: | OSX :heavy_check_mark:   
 **Composants Atmel:** ATtiny45 :heavy_minus_sign: | ATtiny85 :heavy_check_mark: | ATtiny44 :heavy_minus_sign: | ATtiny84 :heavy_minus_sign:     
 
-:heavy_minus_sign: = Pas encore testé
+:heavy_minus_sign: = Pas encore testé  
 :heavy_check_mark: = Testé et fonctionnel  
 :x: = Testé mais ne fonctionne pas  
 
